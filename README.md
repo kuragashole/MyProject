@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="batman! logo" src="assets/batman.png">
+  <img width="500" alt="batman! logo" src="src/assets/batman.png">
 </p>
 
 # Разработка базы данных сервиса мультиссылок для бизнес-компаний и отдельных предпринимателей  
